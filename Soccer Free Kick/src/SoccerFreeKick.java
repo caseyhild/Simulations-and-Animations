@@ -2,7 +2,9 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-public class GamePanel extends JPanel implements ActionListener, MouseMotionListener, MouseListener {
+public class SoccerFreeKick extends JPanel implements ActionListener, MouseMotionListener, MouseListener {
+    private final int width;
+    private final int height;
     private int x = 200;
     private int y = 350;
     private double ballSpeed = 5;
@@ -14,8 +16,10 @@ public class GamePanel extends JPanel implements ActionListener, MouseMotionList
     private final Ball ball;
     private final Field field;
 
-    public GamePanel() {
-        setPreferredSize(new Dimension(400, 400));
+    public SoccerFreeKick() {
+        width = 400;
+        height = 400;
+
         setBackground(Color.WHITE);
         addMouseListener(this);
 
@@ -146,4 +150,17 @@ public class GamePanel extends JPanel implements ActionListener, MouseMotionList
     public void mouseEntered(MouseEvent e) {}
     public void mouseExited(MouseEvent e) {}
     public void mouseMoved(MouseEvent e) {}
+
+    public static void main(String[] args) {
+        SoccerFreeKick s = new SoccerFreeKick();
+        JFrame jf = new JFrame();
+        jf.setTitle("Soccer Free Kick");
+        jf.setSize(s.width, s.height + 28);
+        jf.setVisible(true);
+        jf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        jf.setResizable(false);
+        jf.setLocationRelativeTo(null);
+        jf.add(s);
+        jf.setVisible(true);
+    }
 }

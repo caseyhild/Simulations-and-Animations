@@ -174,7 +174,6 @@ public class ExplorableMap extends JFrame implements Runnable, KeyListener
 
     public void keyPressed(KeyEvent key)
     {
-        System.out.println("hello");
         if(key.getKeyCode() == KeyEvent.VK_LEFT)
             left = true;
         if(key.getKeyCode() == KeyEvent.VK_RIGHT)

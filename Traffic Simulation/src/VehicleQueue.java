@@ -90,10 +90,10 @@ public class VehicleQueue
      * 
      * @param g the Graphics object needed to draw the vehicles
      */
-    public void display(Graphics g)
-    {
+    public void display(Graphics g) {
         for (Vehicle vehicle : vehicles) {
-            vehicle.display(g);
+            if (vehicle.active)
+                vehicle.display(g);
         }
     }
 

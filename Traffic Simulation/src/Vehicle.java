@@ -12,7 +12,7 @@ public abstract class Vehicle
     protected int totalTimeOnRoad;
     protected int waitingTime;
     protected int distanceTraveled;
-    protected boolean active;
+    public boolean active;
     
     /**
      * Checks if the vehicle is able to move forward

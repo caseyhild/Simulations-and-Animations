@@ -11,7 +11,7 @@ public class Particle {
         acceleration = new Vector2D(0, 0.0005);
         velocity = new Vector2D(Math.random()*0.2 - 0.1, Math.random()*0.2 - 0.1);
         this.position = position.get();
-        timer = 10000;
+        timer = 5000;
         size = 15;
     }
 
