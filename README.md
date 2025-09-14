@@ -2,17 +2,19 @@ A collection of simulations and animations I have made throughout the years.
 
 <img width="410" alt="Screenshot 2025-09-13 at 7 03 06 PM" src="https://github.com/user-attachments/assets/1c549370-2309-49ac-86b2-57e36be2ac8c" />
 <img width="410" alt="Screenshot 2025-09-13 at 6 49 45 PM" src="https://github.com/user-attachments/assets/698b1215-3967-46dd-8949-dac1fdd8df71" />
+
 <img width="410" alt="Screenshot 2025-09-13 at 7 03 43 PM" src="https://github.com/user-attachments/assets/b4937f57-307d-4b78-9642-801cf93d22ba" />
 <img width="410" alt="Screenshot 2025-09-13 at 7 07 23 PM" src="https://github.com/user-attachments/assets/af6a67a8-00ee-40e7-a0cd-36b6842b7dcd" />
+
 <img width="410" alt="Screenshot 2025-09-13 at 6 53 39 PM" src="https://github.com/user-attachments/assets/22574021-454f-4343-b66d-f0169acdbd9b" />
 <img width="410" alt="Screenshot 2025-09-13 at 6 37 51 PM" src="https://github.com/user-attachments/assets/0d0faec7-d384-426c-830d-448893a28ec4" />
 
-<img width="410" alt="Screenshot 2025-09-13 at 6 38 55 PM" src="https://github.com/user-attachments/assets/bda8b051-76d6-48a1-981e-02cd60aba292" />
-
-<img width="410" alt="Screenshot 2025-09-13 at 6 47 56 PM" src="https://github.com/user-attachments/assets/f9469969-6750-4f17-8548-90052da7281d" />
-<img width="410" alt="Screenshot 2025-09-13 at 6 44 54 PM" src="https://github.com/user-attachments/assets/0410ea55-e388-4757-a4ff-ad887bda0ac0" />
+<img width="820" alt="Screenshot 2025-09-13 at 6 38 55 PM" src="https://github.com/user-attachments/assets/bda8b051-76d6-48a1-981e-02cd60aba292" />
 
 <img width="410" alt="Screenshot 2025-09-13 at 6 42 14 PM" src="https://github.com/user-attachments/assets/63a639bf-093b-4335-a150-de9939579181" />
+<img width="205" alt="Screenshot 2025-09-13 at 6 47 56 PM" src="https://github.com/user-attachments/assets/f9469969-6750-4f17-8548-90052da7281d" />
+<img width="205" alt="Screenshot 2025-09-13 at 6 44 54 PM" src="https://github.com/user-attachments/assets/0410ea55-e388-4757-a4ff-ad887bda0ac0" />
+
 <img width="410" alt="Screenshot 2025-09-13 at 6 43 09 PM" src="https://github.com/user-attachments/assets/6510b02d-84b0-4b91-adec-a1f10c5c6ef9" />
 <img width="410" alt="Screenshot 2025-09-13 at 6 46 10 PM" src="https://github.com/user-attachments/assets/03da9172-1987-4f44-954d-a525f3aa01a9" />
 <img width="410" alt="Screenshot 2025-09-13 at 6 46 47 PM" src="https://github.com/user-attachments/assets/f63837c3-4270-4a9d-8b7d-460a756b6734" />
