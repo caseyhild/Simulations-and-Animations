@@ -1,3 +1,3 @@
 Creates a simple animation using a fourier transform.
 
-<img width="590" height="591" alt="Screenshot 2025-09-13 at 2 34 05 PM" src="https://github.com/user-attachments/assets/c8a00c9b-fb99-44ae-b2b3-a8c1d8d2d5c0" />
+<img width="594" height="587" alt="Screenshot 2025-09-13 at 6 43 09 PM" src="https://github.com/user-attachments/assets/6510b02d-84b0-4b91-adec-a1f10c5c6ef9" />
