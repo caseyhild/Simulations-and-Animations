@@ -1,3 +1,3 @@
 Creates a simple wind simulation using a particle generator.
 
-<img width="640" height="479" alt="Screenshot 2025-09-13 at 4 06 43 PM" src="https://github.com/user-attachments/assets/1ca390fc-f01d-4358-880f-86b7ecda4691" />
+<img width="638" height="471" alt="Screenshot 2025-09-13 at 7 11 26 PM" src="https://github.com/user-attachments/assets/44f239ea-334f-462c-9c4c-0287f60ca97e" />

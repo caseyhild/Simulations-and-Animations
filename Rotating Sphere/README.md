@@ -1,3 +1,3 @@
 Simulates a sphere made of uniformly distributed points rotating in 3D space.
 
-<img width="598" height="592" alt="Screenshot 2025-09-13 at 3 28 18 PM" src="https://github.com/user-attachments/assets/e9770d9c-8195-4277-9171-2a6e7a837df0" />
+<img width="599" height="592" alt="Screenshot 2025-09-13 at 6 49 45 PM" src="https://github.com/user-attachments/assets/698b1215-3967-46dd-8949-dac1fdd8df71" />

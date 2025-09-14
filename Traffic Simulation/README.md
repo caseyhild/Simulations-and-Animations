@@ -1,3 +1,3 @@
 Simulates traffic with 1 intersection and randomly spawning motorcylces/cars/buses.
 
-<img width="640" height="641" alt="Screenshot 2025-09-13 at 4 03 08 PM" src="https://github.com/user-attachments/assets/6d5650e5-88a0-4143-9f99-4859112c7b77" />
+<img width="638" height="637" alt="Screenshot 2025-09-13 at 7 07 23 PM" src="https://github.com/user-attachments/assets/af6a67a8-00ee-40e7-a0cd-36b6842b7dcd" />
