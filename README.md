@@ -10,7 +10,7 @@ A collection of simulations and animations I have made throughout the years.
 <img height="200" alt="Screenshot 2025-09-13 at 6 43 09 PM" src="https://github.com/user-attachments/assets/6510b02d-84b0-4b91-adec-a1f10c5c6ef9" />
 <img height="200" alt="Screenshot 2025-09-13 at 6 46 10 PM" src="https://github.com/user-attachments/assets/03da9172-1987-4f44-954d-a525f3aa01a9" />
 
-<img height="202" alt="Screenshot 2025-09-13 at 6 38 55 PM" src="https://github.com/user-attachments/assets/bda8b051-76d6-48a1-981e-02cd60aba292" />
+<img height="200" alt="Screenshot 2025-09-13 at 6 38 55 PM" src="https://github.com/user-attachments/assets/bda8b051-76d6-48a1-981e-02cd60aba292" />
 <img height="200" alt="Screenshot 2025-09-13 at 6 42 14 PM" src="https://github.com/user-attachments/assets/63a639bf-093b-4335-a150-de9939579181" />
 <img height="200" alt="Screenshot 2025-09-13 at 6 46 47 PM" src="https://github.com/user-attachments/assets/f63837c3-4270-4a9d-8b7d-460a756b6734" />
 
