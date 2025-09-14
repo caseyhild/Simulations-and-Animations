@@ -1,7 +1,7 @@
 A collection of simulations and animations I have made throughout the years.
 
-<img width="410" alt="Screenshot 2025-09-13 at 7 03 06 PM" src="https://github.com/user-attachments/assets/1c549370-2309-49ac-86b2-57e36be2ac8c" /> #SFK
-<img width="410" alt="Screenshot 2025-09-13 at 6 49 45 PM" src="https://github.com/user-attachments/assets/698b1215-3967-46dd-8949-dac1fdd8df71" /> #SPH
+<img width="410" alt="Screenshot 2025-09-13 at 7 03 06 PM" src="https://github.com/user-attachments/assets/1c549370-2309-49ac-86b2-57e36be2ac8c" /> # SFK
+<img width="410" alt="Screenshot 2025-09-13 at 6 49 45 PM" src="https://github.com/user-attachments/assets/698b1215-3967-46dd-8949-dac1fdd8df71" /> # SPH
 <img width="410" alt="Screenshot 2025-09-13 at 7 03 43 PM" src="https://github.com/user-attachments/assets/b4937f57-307d-4b78-9642-801cf93d22ba" /> #SF
 <img width="410" alt="Screenshot 2025-09-13 at 7 07 23 PM" src="https://github.com/user-attachments/assets/af6a67a8-00ee-40e7-a0cd-36b6842b7dcd" /> #TS
 <img width="410" alt="Screenshot 2025-09-13 at 6 53 39 PM" src="https://github.com/user-attachments/assets/22574021-454f-4343-b66d-f0169acdbd9b" /> #SS
