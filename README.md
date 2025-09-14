@@ -9,6 +9,9 @@ A collection of simulations and animations I have made throughout the years.
 <img height="400" alt="Screenshot 2025-09-13 at 6 53 39 PM" src="https://github.com/user-attachments/assets/22574021-454f-4343-b66d-f0169acdbd9b" />
 <img height="400" alt="Screenshot 2025-09-13 at 6 37 51 PM" src="https://github.com/user-attachments/assets/0d0faec7-d384-426c-830d-448893a28ec4" />
 
+<img height="400" alt="Screenshot 2025-09-13 at 6 43 09 PM" src="https://github.com/user-attachments/assets/6510b02d-84b0-4b91-adec-a1f10c5c6ef9" />
+<img height="400" alt="Screenshot 2025-09-13 at 6 46 10 PM" src="https://github.com/user-attachments/assets/03da9172-1987-4f44-954d-a525f3aa01a9" />
+
 <img height="400" alt="Screenshot 2025-09-13 at 6 38 55 PM" src="https://github.com/user-attachments/assets/bda8b051-76d6-48a1-981e-02cd60aba292" />
 
 <img height="400" alt="Screenshot 2025-09-13 at 6 42 14 PM" src="https://github.com/user-attachments/assets/63a639bf-093b-4335-a150-de9939579181" />
@@ -16,8 +19,6 @@ A collection of simulations and animations I have made throughout the years.
 
 <img height="400" alt="Screenshot 2025-09-13 at 6 44 54 PM" src="https://github.com/user-attachments/assets/0410ea55-e388-4757-a4ff-ad887bda0ac0" />
 
-<img width="410" alt="Screenshot 2025-09-13 at 6 43 09 PM" src="https://github.com/user-attachments/assets/6510b02d-84b0-4b91-adec-a1f10c5c6ef9" />
-<img width="410" alt="Screenshot 2025-09-13 at 6 46 10 PM" src="https://github.com/user-attachments/assets/03da9172-1987-4f44-954d-a525f3aa01a9" />
 <img width="410" alt="Screenshot 2025-09-13 at 6 46 47 PM" src="https://github.com/user-attachments/assets/f63837c3-4270-4a9d-8b7d-460a756b6734" />
 <img width="410" alt="Screenshot 2025-09-13 at 6 51 31 PM" src="https://github.com/user-attachments/assets/aa36abf2-b14a-4626-8581-03ed5c424c1d" />
 
