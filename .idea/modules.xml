@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Cell Art/Cell Art.iml" filepath="$PROJECT_DIR$/Cell Art/Cell Art.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collisions/Collisions.iml" filepath="$PROJECT_DIR$/Collisions/Collisions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Color Graph/Color Graph.iml" filepath="$PROJECT_DIR$/Color Graph/Color Graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Double Pendulum/Double Pendulum.iml" filepath="$PROJECT_DIR$/Double Pendulum/Double Pendulum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Explorable Map/Explorable Map.iml" filepath="$PROJECT_DIR$/Explorable Map/Explorable Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fourier Transform/Fourier Transform.iml" filepath="$PROJECT_DIR$/Fourier Transform/Fourier Transform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUI Template/GUI Template.iml" filepath="$PROJECT_DIR$/GUI Template/GUI Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Math/Math.iml" filepath="$PROJECT_DIR$/Math/Math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pinwheel/Pinwheel.iml" filepath="$PROJECT_DIR$/Pinwheel/Pinwheel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prog Rock Album Cover Artwork/Prog Rock Album Cover Artwork.iml" filepath="$PROJECT_DIR$/Prog Rock Album Cover Artwork/Prog Rock Album Cover Artwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rain Simulation/Rain Simulation.iml" filepath="$PROJECT_DIR$/Rain Simulation/Rain Simulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Random Squares/Random Squares.iml" filepath="$PROJECT_DIR$/Random Squares/Random Squares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rotating Sphere/Rotating Sphere.iml" filepath="$PROJECT_DIR$/Rotating Sphere/Rotating Sphere.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Simple Baseball Game/Simple Baseball Game.iml" filepath="$PROJECT_DIR$/Simple Baseball Game/Simple Baseball Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Simple Car Animation/Simple Car Animation.iml" filepath="$PROJECT_DIR$/Simple Car Animation/Simple Car Animation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sliding Squares/Sliding Squares.iml" filepath="$PROJECT_DIR$/Sliding Squares/Sliding Squares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Soccer Freekick/Soccer Freekick.iml" filepath="$PROJECT_DIR$/Soccer Freekick/Soccer Freekick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Star Field/Star Field.iml" filepath="$PROJECT_DIR$/Star Field/Star Field.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Traffic Simulation/Traffic Simulation.iml" filepath="$PROJECT_DIR$/Traffic Simulation/Traffic Simulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wind Simulation/Wind Simulation.iml" filepath="$PROJECT_DIR$/Wind Simulation/Wind Simulation.iml" />
+    </modules>
+  </component>
+</project>
